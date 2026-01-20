@@ -4,7 +4,7 @@ Author: Alexandros Tzalavras (at1159@rutgers.edu)
 
 Includes the Python (3.9.7) Jupyter notebook vision_cortex_hierarchy.ipynb, which contains the necessary code to run the core analyses described below. HCP 7T retinotopy fMRI data are used (see details below). The remaining files included with the repository are required for the function to run (see details below).
 Analyses include: 
-  1. Functional connectivity estimation at the parcel & vertex level.
+  1. Functional connectivity estimation.
   2. Communicability estimation at the parcel and vertex level.
   3. Representational similarity matrix creation.
   4. Representational distance estimation.
