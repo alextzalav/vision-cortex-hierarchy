@@ -26,4 +26,5 @@ Function files (.py) featuring custom Python code to run the core analyses, call
 
 (Included with the repo) graphicalLassoCV.py function from https://github.com/ColeLab/ActflowToolbox/connectivity_estimation that is used to estimate functional connectivity at the parcel level (Peterson et al., 2025). Also, addNetColors_Seaborn from https://github.com/ColeLab/ActflowToolbox/tools, which is used for functional connectivity (parcel-level) graph visualization. Lastly, cortex_parcel_network_assignments.txt from https://github.com/ColeLab/ActflowToolbox/dependencies/ColeAnticevicNetPartition, which links parcels to affiliated networks based on the CAB-NP network partition. 
 
-Example data to test code execution: i) fMRI vertexwise task activation data for one subject, and ii) intermediate files containing group-level results. Both need to be stored in the same folder as the functions from this repository and need to be downloaded first from this access link https://rutgers.box.com/s/8abw0n2ydeau2688rdozozzrqgq5hf37.
+Example data to test code execution: i) fMRI vertexwise task activation data for one subject, and ii) intermediate files containing group-level results. Both need to be stored in the same folder as the functions from this repository and need to be downloaded first from this access link 
+https://rutgers.box.com/s/0uitqsy5bwzmxlh5l2cs3nbqzmmfjgmb.
